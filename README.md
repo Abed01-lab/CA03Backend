@@ -1,6 +1,12 @@
 [![Build Status](https://travis-ci.com/Abed01-lab/CA03Backend.svg?branch=master)](https://travis-ci.com/Abed01-lab/CA03Backend)
-*This project is meant as start code for projects and exercises given in Flow-1+2 at http://cphbusiness.dk in the Study Program "AP degree in Computer Science"*
-
+### This project is meant as start code for your Exam
+### Start Guide:
+ - * Clone the project
+ - * Remove the associated git files
+ - * Make Changes
+ - * Make a new git init that point to your repo
+ - * Connect to travis (Change the build success image to point to your travis)
+ - * git push and go
 *Projects which are expected to use this start-code are projects that require all, or most of the following technologies:*
  - *JPA and REST*
 - *Testing, including database test*
